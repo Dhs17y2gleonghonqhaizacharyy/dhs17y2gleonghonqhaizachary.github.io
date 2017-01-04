@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Welcome!!!</h1>
-    <img src="PHOTO 1">
+    <img src="PHOTO 1.jpg">
     <h2>About</h2>
     <p>I am a 13-year old student from <a href="http://www.dunmanhigh.moe.edu.sg">Dunman High School</a>, Singapore. I am <a href="http://www.trinity.net/IGNYTE//">christian</a>.</p>
     <h2>Interests</h2>
